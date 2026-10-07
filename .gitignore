@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+prodigy-datasets/
+prodigy-datasets.zip
